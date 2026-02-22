@@ -15,6 +15,6 @@ In your project's root directory, create a .streamlit folder, and inside it, cre
 
 Add your API keys to the secrets.toml file like this:
 
-OPENWEATHER_API_KEY = "your_openweather_api_key"
+OPENWEATHER_API_KEY = "your_openweather_api_key" 
 SPOTIFY_CLIENT_ID = "your_spotify_client_id"
 SPOTIFY_CLIENT_SECRET = "your_spotify_client_secret"
